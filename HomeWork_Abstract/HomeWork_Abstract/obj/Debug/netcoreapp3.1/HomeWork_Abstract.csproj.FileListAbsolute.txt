@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\bin\Debug\netcoreapp3.1\HomeWork_Abstract.exe
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\bin\Debug\netcoreapp3.1\HomeWork_Abstract.deps.json
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\bin\Debug\netcoreapp3.1\HomeWork_Abstract.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\bin\Debug\netcoreapp3.1\HomeWork_Abstract.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\bin\Debug\netcoreapp3.1\HomeWork_Abstract.dll
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\bin\Debug\netcoreapp3.1\HomeWork_Abstract.pdb
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\obj\Debug\netcoreapp3.1\HomeWork_Abstract.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\obj\Debug\netcoreapp3.1\HomeWork_Abstract.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\obj\Debug\netcoreapp3.1\HomeWork_Abstract.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\obj\Debug\netcoreapp3.1\HomeWork_Abstract.dll
+C:\Users\Lenovo\source\repos\HomeWork_Abstract\HomeWork_Abstract\obj\Debug\netcoreapp3.1\HomeWork_Abstract.pdb
